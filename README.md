@@ -26,26 +26,15 @@ To analyze historical sales data of Rossman Health Chain and derive actionable i
 
 ##  Tasks Performed
 
-### 1) Data Preparation & Loading
-- Installed Tableau Enterprise software.
-- Imported `Rossmann_Sales.csv` into Tableau.
-
-### 2) Sales Analysis
-- Plotted **average sales trend** in each quarter across all years.
-- Identified **Top 10 performing stores** in terms of revenue using a **Tree Map**.
-- Analyzed **historical sales trends** to identify patterns.
-- Determined **least performing store** in terms of sales.
-
-### 3) Customer Analysis
-- Found the **number of customers** visiting **Store ID 262** in **Q3 of 2013**.
-- Calculated **median number of customers** during **promotion vs non-promotion** days.
-
-### 4) Visualization & Dashboard Creation
-- Created **Region-wise Sales** bar graph (sorted ascending → descending) using:
-  - **Region**
-  - **Sales**
-- Developed an **interactive Tableau dashboard** summarizing all findings.
-
+1. **Load the dataset** and plot the **average sales trend** in each quarter of all the years.  
+2. **Identify the Top 10 performing stores** in terms of revenue using a **Tree Map**.  
+3. **Analyze historical sales trends** of Rossman stores and identify observable patterns.  
+4. Determine **which store is the least performing** in terms of sales.  
+5. Find **how many customers visited Store ID 262** in **Quarter 3 of 2013**.  
+6. Calculate the **median value** for the number of customers who visited all stores during **promotion** and **non-promotion** days.  
+7. **Prepare a dashboard** summarizing all observations and create a **Region-wise Sales** bar graph using:
+   - Variables: **Region** & **Sales**
+   - Sorted from ascending → descending order
 ---
 
 ##  Key Insights
