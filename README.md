@@ -64,6 +64,9 @@ A comprehensive, interactive **Tableau dashboard** for Rossman Health Chain sale
 ---
 
 ##  Dashboard Link
+
+<img width="1920" height="1003" alt="Screenshot 2025-08-14 191948" src="https://github.com/user-attachments/assets/d14801e8-9be6-42b9-a679-d3436da71aee" />
+
 📊 https://public.tableau.com/views/ExploratoryDataAnalysisonsalesdatafromRossmanHealthChain/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
